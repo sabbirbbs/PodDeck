@@ -111,7 +111,7 @@ app/src/main/java/com/example/
 ### Build & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/poddeck.git
+   git clone https://github.com/sabbirbbs/poddeck.git
    cd poddeck
    ```
 2. Open the project in Android Studio or build from the command line:
