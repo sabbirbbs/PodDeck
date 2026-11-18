@@ -146,4 +146,4 @@ This project is intended for personal, educational, and offline listening workfl
 
 ## License
 
-This project is open source. Add a `LICENSE` file (e.g., **MIT** or **Apache-2.0**) before publishing your repository.
+This project is open source.
