@@ -1,0 +1,6 @@
+{
+  "name": "PodDeck",
+  "description": "Offline YouTube playlist podcast player with background audio playback, episode downloads, and resume progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
